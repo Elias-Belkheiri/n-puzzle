@@ -1,0 +1,7 @@
+# Build artifacts
+/n-puzzle
+/obj/
+
+# Python cache
+__pycache__/
+*.py[cod]

@@ -1,0 +1,5 @@
+# Simple 3x3 test
+3
+3 2 6 #another comment
+1 4 0
+8 7 5
